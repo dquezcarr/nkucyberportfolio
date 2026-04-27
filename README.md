@@ -1,5 +1,9 @@
 # DQuez Carr – Cybersecurity Portfolio 👨🏾‍💻📚 
 
+## Disclaimer
+All work in this repository was completed in controlled lab environments. 
+No real-world systems, client data, or sensitive information are included.
+
 ## Overview
 
 ADDING RISK MANAGEMENT AND INCEDENT RESPONSE SECTIONS SOON..
