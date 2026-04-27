@@ -63,8 +63,6 @@ Focused on privacy engineering, risk analysis, and regulatory frameworks.
 * Analyzed data handling risks and mitigation strategies
 * Applied Privacy by Design concepts to system security
 
-[Data Privacy MCY 620](nkucyberportfolio/Data%20Privacy%20MCY%20620/)
-
 ---
 
 ### Security Architecture (MCY 630)
