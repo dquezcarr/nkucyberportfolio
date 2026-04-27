@@ -63,7 +63,10 @@ Focused on privacy engineering, risk analysis, and regulatory frameworks.
 * Analyzed data handling risks and mitigation strategies
 * Applied Privacy by Design concepts to system security
 
-[Data Privacy](Data Privacy MCY 620/)
+
+🔗 [View Data Privacy Investigations](dataprivacy/)
+
+
 
 ---
 
