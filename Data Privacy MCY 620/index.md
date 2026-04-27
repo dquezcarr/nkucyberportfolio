@@ -20,8 +20,6 @@ This course focused on privacy engineering, regulatory frameworks, and practical
   * Evaluated anonymization and encryption techniques in simulated environments
   * Analyzed tools such as Tor Browser, Anonymous Camera, and privacy scoring extensions
 
-* [View Assignment](pet-handout/PET-Hands-On-Work.pdf) 
-
 ---
 
 ### Privacy Risk Assessment & Privacy by Design (Final Project)
@@ -36,8 +34,6 @@ This course focused on privacy engineering, regulatory frameworks, and practical
   * Connected PRA to frameworks such as NIST and GDPR
   * Examined real-world risks including data overcollection, unauthorized access, and third-party exposure
   * Demonstrated how Privacy by Design improves system security, compliance, and user trust
-
-* [View Final Project](final-project/Privacy-Risk-Assessment.pdf) 
 
 ---
 
