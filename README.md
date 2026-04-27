@@ -2,6 +2,8 @@
 
 ## Overview
 
+ADDING RISK MANAGEMENT AND INCEDENT RESPONSE SECTIONS SOON..
+
 Welcome to my cybersecurity portfolio. This repository showcases hands-on labs, investigations, and projects completed throughout my coursework at Northern Kentucky University. The work reflects practical experience across network security, cloud environments, web application security, and security architecture.
 
 Each course includes real-world style investigations that demonstrate how I analyze threats, identify vulnerabilities, and apply security controls—aligned with SOC operations and modern cybersecurity practices.
